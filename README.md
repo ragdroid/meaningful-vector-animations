@@ -9,7 +9,8 @@ This is the place to find all the assets used in the talk "Meaningful vector ani
 
 Start with the Vector Drawables from the first animation folder : [Animation 1](https://github.com/ragdroid/meaningful-vector-animations/tree/master/assets/animation1_expand_collpase)
 
-[Hope it turns out like this](https://github.com/ragdroid/meaningful-vector-animations/blob/master/gifs/expand_collapse.gif) 
+Hope it turns out like this : 
+https://github.com/ragdroid/meaningful-vector-animations/blob/master/gifs/expand_collapse.gif
 
 ### Final Shape Shifter File: [ShapeShifter](https://github.com/ragdroid/meaningful-vector-animations/blob/master/assets/animation1_expand_collpase/expand_collapse_colored.shapeshifter)
 
@@ -18,9 +19,11 @@ Start with the Vector Drawables from the first animation folder : [Animation 1](
 
 Start with the Vector Drawables from the first animation folder : [Animation 2](https://github.com/ragdroid/meaningful-vector-animations/tree/master/assets/animation2_add_tick)
 
-[Hope it turns out like this: Add to Done](https://github.com/ragdroid/meaningful-vector-animations/blob/master/gifs/add_tick_colored.gif)
+Hope it turns out like this: Add to Done 
+https://github.com/ragdroid/meaningful-vector-animations/blob/master/gifs/add_tick_colored.gif
 
-[Done, Back to Add](https://github.com/ragdroid/meaningful-vector-animations/blob/master/gifs/tick_to_add_colored.gif)
+Done, Back to Add: 
+https://github.com/ragdroid/meaningful-vector-animations/blob/master/gifs/tick_to_add_colored.gif
 
 ### Final Shape Shifter File: [ShapeShifter-Add to Done](https://github.com/ragdroid/meaningful-vector-animations/blob/master/assets/animation2_add_tick/add_to_tick.shapeshifter)
 ### Final Shape Shifter File: [ShapeShifter-Done to Add](https://github.com/ragdroid/meaningful-vector-animations/blob/master/assets/animation2_add_tick/tick_to_add.shapeshifter)
@@ -30,7 +33,9 @@ Start with the Vector Drawables from the first animation folder : [Animation 2](
 
 Start with the Vector Drawables from the first animation folder : [Animation 3](https://github.com/ragdroid/meaningful-vector-animations/tree/master/assets/animation3_a_camera_lines)
 
-[Hope it turns out like this](https://github.com/ragdroid/meaningful-vector-animations/blob/master/gifs/camera_lines.gif)
+Hope it turns out like this 
+
+https://github.com/ragdroid/meaningful-vector-animations/blob/master/gifs/camera_lines.gif
 
 ### Final Shape Shifter File: [ShapeShifter](https://github.com/ragdroid/meaningful-vector-animations/blob/master/assets/animation3_a_camera_lines/camera_colored_lines.shapeshifter)
 
@@ -38,7 +43,8 @@ Start with the Vector Drawables from the first animation folder : [Animation 3](
 
 Start with the Vector Drawables from the first animation folder : [Animation 4](https://github.com/ragdroid/meaningful-vector-animations/tree/master/assets/animation3_camera_curves)
 
-[Hope it turns out like this](https://github.com/ragdroid/meaningful-vector-animations/blob/master/gifs/camera_line_to_curve.gif)
+Hope it turns out like this
+https://github.com/ragdroid/meaningful-vector-animations/blob/master/gifs/camera_line_to_curve.gif
 
 ### Final Shape Shifter File: [ShapeShifter](https://github.com/ragdroid/meaningful-vector-animations/blob/master/assets/animation3_camera_curves/camera_curve_colored.shapeshifter)
 
